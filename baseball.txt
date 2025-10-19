@@ -19,7 +19,7 @@
 	<link rel="manifest" href="manifest.json">
 
 	
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/BaseballBros.js?th=101"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/BaseballBros.js?th=101"></script>
 	
 	<script>
 		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
@@ -471,13 +471,13 @@
 	</script>
 
     <div id="loading" style="position: absolute; z-index: 15; top: 60%; left: 50%; transform: translate(-50%, 0); background: black;">
-			<center><img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/loading4.png"><br/>
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/fbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/bbbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/sbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/wbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/kbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@3/assets/bbro.png">
+			<center><img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/loading4.png"><br/>
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/fbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/bbbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/sbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/wbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/kbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/bbro.png">
 			</center>
 	</div>
 
